@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ruri Enciso</h1>
-<h3 align="center"> Economist & A passionate full stack developer Student. Stack: JavaScript, Python, Ruby, Rails, React, Redux. Looking for my next job!</h3>
+<h1 align="center">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&color=247FA7&center=true&vCenter=true&width=435&lines=Hi there! 👋 %2C+I'm+Ruri!" alt="Typing SVG" /><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" height="55px" width="55px"></h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rurienciso&label=Profile%20views&color=0e75b6&style=flat" alt="rurienciso" /> </p>
 
