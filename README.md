@@ -8,7 +8,7 @@ I'm a passionate Full Stack development student and recently graduated Economist
 
 - 💬 Ask me about **Full Stack Development, Full stack Development, and any Tech-related stuff or Economy.**
 
-- 📫 How to reach me **rurienciso@gamil.com**
+- 📫 How to reach me **rurienciso@gmil.com**
 
 <hr>
 <h3 align="left">Connect with me:</h3>
